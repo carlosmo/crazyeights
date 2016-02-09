@@ -1,3 +1,3 @@
 <h1>Crazy Eights</h1>
 
-- Description: A java program to simulate the traditional card game, Crazy Eights.
+A java program that uses efficient code design patterns to simulate the traditional card game, Crazy Eights.
